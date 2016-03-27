@@ -26,13 +26,13 @@ OfflineMessage.java: Storing offline message.
 An inner class: TimeCalculation.class: To calculate the time, if the time runs out, the user will automatically log out.
 
 
-——————————————————————————————————————————————————————————————————————————————————————————
+
 Details on Development Environment
 Software: Eclipse, Terminal;
 Java Version: 1.8.0_60;
 
 
-——————————————————————————————————————————————————————————————————————————————————————————
+
 Instructions on How to Run Code
 1. Go to the directory of the file: 
 2. Run the “Makefile” by using following command:
@@ -42,7 +42,7 @@ Instructions on How to Run Code
 4. Run the Client: $Java Client 127.0.0.1 Port
 
 
-——————————————————————————————————————————————————————————————————————————————————————————
+
 Sample Commands to Invoke Code
 
 Pre-Build:
@@ -78,7 +78,7 @@ Example: send columbia I’m foobar
 Example: logout
 
 
-——————————————————————————————————————————————————————————————————————————————————————————
+
 Description of Additional Functionalities
 1. Online Reminder
 Whenever a user successfully logged in, the system will remind other online users who just logged in.
